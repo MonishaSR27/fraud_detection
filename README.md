@@ -2,6 +2,7 @@
 <br>
   This model is a Streamlit-based web application that predicts whether a financial transaction is fraudulent or not based on input features. It uses a trained Machine Learning Model to make predictions. 
 <br>
+<br>
 ## Tech Stack
 <br>
 -Python
